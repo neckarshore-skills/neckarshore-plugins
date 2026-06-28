@@ -1,0 +1,14 @@
+{
+  "name": "neckarshore-ai",
+  "owner": {
+    "name": "Neckarshore AI",
+    "url": "https://neckarshore.ai"
+  },
+  "plugins": [
+    {
+      "name": "obsidian-vault-autopilot",
+      "source": { "source": "github", "repo": "neckarshore-skills/obsidian-vault-autopilot" },
+      "description": "AI-powered vault autopilot — sorts, renames, tags, and enriches your Obsidian notes automatically."
+    }
+  ]
+}
