@@ -7,7 +7,7 @@
   "plugins": [
     {
       "name": "obsidian-vault-autopilot",
-      "source": { "source": "github", "repo": "neckarshore-skills/obsidian-vault-autopilot" },
+      "source": { "source": "url", "url": "https://github.com/neckarshore-skills/obsidian-vault-autopilot.git" },
       "description": "AI-powered vault autopilot — sorts, renames, tags, and enriches your Obsidian notes automatically."
     }
   ]
