@@ -13,6 +13,7 @@ The plugin marketplace for [Neckarshore AI](https://neckarshore.ai). Add it once
 
 | Plugin | What it does |
 |--------|--------------|
+| [`mailbox-autopilot`](https://github.com/neckarshore-skills/mailbox-autopilot) | Cleans up an IMAP mailbox and drafts replies into your Drafts folder. Never sends mail. |
 | [`obsidian-vault-autopilot`](https://github.com/neckarshore-skills/obsidian-vault-autopilot) | AI-powered vault autopilot — sorts, renames, tags, and enriches your Obsidian notes automatically. |
 | `generic-tools` | Productivity + meta plugins (PRD/brainstorming, plugin-building). *Coming soon.* |
 
