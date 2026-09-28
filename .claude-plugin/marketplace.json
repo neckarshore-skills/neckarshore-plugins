@@ -6,6 +6,11 @@
   },
   "plugins": [
     {
+      "name": "mailbox-autopilot",
+      "source": { "source": "url", "url": "https://github.com/neckarshore-skills/imap-mailbox-cleanup.git" },
+      "description": "Clean up an IMAP mailbox and draft replies into Drafts. Never sends mail."
+    },
+    {
       "name": "obsidian-vault-autopilot",
       "source": { "source": "url", "url": "https://github.com/neckarshore-skills/obsidian-vault-autopilot.git" },
       "description": "AI-powered vault autopilot — sorts, renames, tags, and enriches your Obsidian notes automatically."
